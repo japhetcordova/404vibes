@@ -1,0 +1,26 @@
+{
+  "name": "404vibes",
+  "version": "1.0.0",
+  "description": "Mainly just for fun and stuff",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japhetcordova/404vibes.git"
+  },
+  "keywords": [],
+  "author": "Japhet Cordova",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/japhetcordova/404vibes/issues"
+  },
+  "homepage": "https://github.com/japhetcordova/404vibes#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
