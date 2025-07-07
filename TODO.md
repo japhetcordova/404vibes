@@ -11,10 +11,10 @@
 [✅] Send HTML content
 
 03: static and html
-[] Add query parameters
-[] Add route parameters
-[] Serve static files
-[] Serve an HTML/CSS folder using express.static()
+[✅] Add query parameters
+[✅] Add route parameters
+[✅] Serve static files
+[✅] Serve an HTML/CSS folder using express.static()
 
 04: middware and POST
 [] Use middleware
