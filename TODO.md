@@ -1,29 +1,27 @@
-01: init project
+## 01: init project
 [✅] init repo
 [✅] init files
 [✅] express setup
 [✅] setup nodemon
 
-02: basic task
+## 02: basic task
 [✅] Change response messages 
 [✅] Add more simple routes
 [✅] Return JSON data
 [✅] Send HTML content
 
-03: static and html
+## 03: static and html
 [✅] Add query parameters
 [✅] Add route parameters
 [✅] Serve static files
 [✅] Serve an HTML/CSS folder using express.static()
 
-04: middware and POST
-[] Use middleware
-[] Use POST route
+## 04: middware and POST
+[✅] Use middleware
+[✅] Use POST route
+[✅] Set up app.post() with body parsing (use express.json())
 
-05: setup POST
-[] Set up app.post() with body parsing (use express.json())
-
-06: 404
+## 06: 404
 [] Handle 404 errors
 
 Create a default route for unmatched paths using app.use()

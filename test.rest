@@ -1,0 +1,13 @@
+### DATA ENDPOINT FOR GETTING A USER
+GET http://localhost:8383/api/data
+
+### DATA ENDPOINT FOR ADDING A USER
+POST http://localhost:8383/api/data
+Content-Type: application/json
+
+{
+    "name": "japhet"
+}
+
+### DATA ENDPOINT FOR DELETING A USER
+DELETE http://localhost:8383/api/data
